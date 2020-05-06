@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7138" started-at="2020-03-03T21:17:10 PST" finished-at="2020-03-03T21:17:17 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7138" started-at="2020-03-03T21:17:10 PST" finished-at="2020-03-03T21:17:17 PST">
+      <class name="LearnPageFactory.TC001_PageFact">
+        <test-method status="PASS" signature="startApp()[pri:0, instance:LearnPageFactory.TC001_PageFact@2a17b7b6]" name="startApp" is-config="true" duration-ms="5897" started-at="2020-03-03T21:17:10 PST" finished-at="2020-03-03T21:17:15 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="runLogin()[pri:0, instance:LearnPageFactory.TC001_PageFact@2a17b7b6]" name="runLogin" duration-ms="753" started-at="2020-03-03T21:17:15 PST" finished-at="2020-03-03T21:17:16 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:LearnPageFactory.TC001_PageFact@2a17b7b6]" name="closeApp" is-config="true" duration-ms="421" started-at="2020-03-03T21:17:16 PST" finished-at="2020-03-03T21:17:17 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- LearnPageFactory.TC001_PageFact -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
